@@ -12,8 +12,6 @@
 
 4) Genera un método mine que calcule el nuevo hash del bloque según su dificultad.
 
-```
-
 ## Authors
 
 * **Luis Izquierdo**
